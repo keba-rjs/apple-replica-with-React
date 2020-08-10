@@ -1,8 +1,9 @@
 import React from 'react';
+import './firstdisplay.css';
 
 
 
-class Fdisplay extends React .Component{
+class Firstdisplay extends React .Component{
   render (){
     return (
 <section className="main-highlight-wrapper">
@@ -38,4 +39,4 @@ class Fdisplay extends React .Component{
 	}
 	}
 
-	export default Fdisplay; 
+	export default Firstdisplay; 

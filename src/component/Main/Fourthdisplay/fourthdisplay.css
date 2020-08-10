@@ -27,7 +27,7 @@ body {
 	background-repeat: no-repeat;
 	background-size: cover;
 	text-align: center;	
-	background-image:  url("../images/home/watch-series-5.jpg");
+	background-image:  url("../../../images/home/watch-series-5.jpg");
 	padding-top: 54px; 
 }
 .right-side-inner-wrapper {
@@ -44,7 +44,7 @@ body {
 	background-size: cover;
 	text-align: center;	
 	padding-top: 54px;
-	background-image:  url("../images/home/apple-card.jpg"); 
+	background-image:  url("../../../images/home/apple-card.jpg"); 
 }
 .description-wraper {
 	max-width: 430px;
